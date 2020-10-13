@@ -86,13 +86,15 @@ def main():
     list0 = generate(genValue)
     list1 = generate(genValue)
     list2 = generate(genValue)
-
+    
+    '''
     list0.sort()
     list1.sort()
     list2.sort()
     list0.reverse()
     list1.reverse()
     list2.reverse()
+    '''
 
     # Bubble sort
     print('bubble sort')
